@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aditya K U
 
 🎓 B.Tech in Computer Science (AI) @ Amrita University, Amaravati  
-🧠 AI & NLP Enthusiast | Systems Thinker  
+🧠 AI & Software Enthusiast | Systems Thinker  
 ⚽ Sports Lover | 📚 Reader  
 
 I enjoy building intelligent systems that extract meaning from text, reason over evidence, and generate balanced outputs.  
-Currently focused on NLP pipelines, RAG systems, and efficient LLM deployment.
+Currently focused on Software, RAG systems, and efficient LLM deployment.
 
 ---
 
