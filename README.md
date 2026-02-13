@@ -1,119 +1,16 @@
-# 👋 Hi, I'm Aditya K U
+<h1 align="center">Hi 👋, I'm Aditya Udai</h1>
+<h3 align="center">AI & Software Enthusiast | Systems Thinker</h3>
 
-🎓 B.Tech in Computer Science (AI) @ Amrita University, Amaravati  
-🧠 AI & Software Enthusiast | Systems Thinker  
-⚽ Sports Lover | 📚 Reader  
+- 🔭 I’m currently working on **🧠 Debate-Based NLP Chatbot**
 
-I enjoy building intelligent systems that extract meaning from text, reason over evidence, and generate balanced outputs.  
-Currently focused on Software, RAG systems, and efficient LLM deployment.
+- 🌱 I’m currently learning **Node Js ,Linux , Dev ops**
 
----
+- 📫 How to reach me **adityaudai.1305@gmail.com**
 
-# 🚀 Featured Project
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/680307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="680307" height="30" width="40" /></a>
+</p>
 
-## 🧠 Debate-Based NLP Chatbot
-
-A modular, claim-first NLP system that:
-- Extracts key claims from input text
-- Simplifies each claim using FLAN-T5
-- Detects debatability
-- Retrieves supporting & opposing evidence
-- Generates counterarguments
-- Produces balanced synthesized output
-
-### 🏗 Architecture Modules
-1. Claim Extraction  
-2. Claim-wise Text Simplification (google/flan-t5-small)  
-3. Debatability Detection  
-4. Evidence Retrieval (Web + Vector Search)  
-5. Counterargument Generation  
-6. Balanced Output Synthesis  
-7. Gradio-based UI Interface  
-
-### 🛠 Tech Used
-- Hugging Face Transformers  
-- PyTorch  
-- SpaCy (NER)  
-- Wikipedia API  
-- RAG Architecture  
-- Gradio  
-- Linux  
-
----
-
-# 📌 Other Projects
-
-### 🔎 Text Simplification using T5
-- Fine-tuned transformer-based models for simplifying complex text
-- Integrated NER-based entity enrichment
-- Evaluated readability improvements
-
-### 📱 Android / System Development Work
-- Flutter + Android Studio setup for offline-capable applications
-- Exploring AI-assisted emergency medical guidance systems
-
----
-
-# 🛠 Technical Skills
-
-## 💻 Programming Languages
-- Python (Primary)
-- C / C++
-- Java
-
-## 🤖 AI / Machine Learning
-- PyTorch
-- Hugging Face Transformers
-- T5 / FLAN-T5
-- Retrieval-Augmented Generation (RAG)
-- NLP Pipelines
-- Tokenization & Embeddings
-- Vector Search Concepts
-
-## 🧠 Natural Language Processing
-- Claim Extraction
-- Text Simplification
-- Debatability Classification
-- Counterargument Generation
-- Named Entity Recognition (SpaCy)
-- Evidence Retrieval Systems
-
-## ⚙️ Tools & Platforms
-- Git & GitHub
-- Linux (Ubuntu)
-- VS Code
-- Android Studio
-- Ollama (Local LLM experimentation)
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🌱 Currently Learning
-
-- Advanced RAG Architectures  
-- LLM Optimization for Low VRAM (4GB GPU setups)  
-- Model Quantization (4-bit / 8-bit)  
-- Efficient Inference Pipelines  
-
----
-
-# 🎯 Career Interests
-
-- AI/ML Internships  
-- NLP Research Projects  
-- LLM System Engineering  
-- Applied AI Product Development  
-
----
-
-# 📫 Connect With Me
-
-- LinkedIn: (Add your link)
-- Email: (optional)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
