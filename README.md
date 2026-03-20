@@ -1,6 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Udai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Enthusiast%20%7C%20Systems%20Thinker&descSize=18&descAlignY=58&descColor=a78bfa" width="100%"/>
+ 
+<h1>👋 Hi, I'm Aditya Udai</h1>
+<h3>🚀 AI &amp; Software Enthusiast &nbsp;|&nbsp; Systems Thinker &nbsp;|&nbsp; B.Tech CSE (AI)</h3>
+ 
+<br/>
 
 <br/>
 
