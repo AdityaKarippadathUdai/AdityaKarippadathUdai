@@ -163,7 +163,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/>
 </a>
 <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="42" height="42"/>
 </a>
 &nbsp;
 </p>
