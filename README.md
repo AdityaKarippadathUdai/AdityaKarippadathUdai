@@ -122,7 +122,6 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 <a href="https://www.jenkins.io" target="_blank" title="Jenkins">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42"/>
 </a>
-&nbsp;
 <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42"/>
 </a>
