@@ -61,6 +61,15 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 - 🔹 Achieved high-accuracy multi-class tumor classification
 
 ---
+### 🎨 AI Icon Generator
+> *Local Stable Diffusion app with CUDA optimization*
+
+- Full-stack local app using **Stable Diffusion v1.5** + **FastAPI**
+- **OpenCV** post-processing pipeline for icon refinement
+- Low-VRAM optimizations for consumer GPU deployment
+- Dark-themed vanilla JS frontend with **Dockerfile** (NVIDIA CUDA base)
+
+---
 
 ## ⚙️ Tech Stack
 
