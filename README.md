@@ -86,15 +86,55 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 ## 🛠️ Languages & Tools
 
-| | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" title="AWS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" title="Docker"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="42" height="42" title="Flask"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" height="42" title="GCP"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" title="Git"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" title="HTML5"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" title="Java"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42" height="42" title="Jenkins"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42" height="42" title="Kotlin"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" title="Linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" title="MongoDB"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" title="MySQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" title="Node.js"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" title="PostgreSQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" title="PyTorch"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" title="React"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="42" height="42" title="Ubuntu"/> | | | | | | |
+### 🛠️ Tech Stack
 
+**Languages**
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
 
+**Web & Frameworks**
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=gradio)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
 ---
 
 ## 📊 GitHub Stats
