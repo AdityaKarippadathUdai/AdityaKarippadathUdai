@@ -84,16 +84,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" title="MySQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" title="Node.js"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" title="PostgreSQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" title="PyTorch"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" title="React"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="42" height="42" title="Ubuntu"/> | | | | | | |
 
 
----
 
-## 📈 Currently Learning
-
-```
-📦 Node.js       →  Backend runtime & server-side JavaScript
-🐧 Linux         →  System administration & shell scripting
-⚙️  DevOps        →  CI/CD, containerization, infrastructure
-🏗️  System Design →  Scalable architecture & distributed systems
-```
 
 ---
 
