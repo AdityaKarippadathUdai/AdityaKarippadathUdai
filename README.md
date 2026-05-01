@@ -86,53 +86,58 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 ## 🛠️ Languages & Tools
 
-**`Languages`**
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
 
-**`Web & Frameworks`**
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+<p>
 
-**`AI / ML`**
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=gradio)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
+  <!-- Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 
-**`Databases`**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+  <!-- Web & Frameworks -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-**`Cloud & DevOps`**
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
+  <!-- AI / ML -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="Gradio" src="https://img.shields.io/badge/-Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**`Tools`**
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+  <!-- Databases -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
+
+  <!-- Cloud & DevOps -->
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-1a73e8?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
