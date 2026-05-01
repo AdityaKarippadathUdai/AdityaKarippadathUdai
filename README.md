@@ -86,9 +86,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 ## 🛠️ Languages & Tools
 
-### 🛠️ Tech Stack
-
-**Languages**
+**`Languages`**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
@@ -96,7 +94,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 
-**Web & Frameworks**
+**`Web & Frameworks`**
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
@@ -104,7 +102,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
-**AI / ML**
+**`AI / ML`**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)
@@ -115,12 +113,12 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 ![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=gradio)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 
-**Databases**
+**`Databases`**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
-**Cloud & DevOps**
+**`Cloud & DevOps`**
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
@@ -129,7 +127,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
 
-**Tools**
+**`Tools`**
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
