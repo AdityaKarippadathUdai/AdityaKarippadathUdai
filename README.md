@@ -172,6 +172,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=AdityaKarippadathUdai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <br/><br/>
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaKarippadathUdai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaKarippadathUdai&theme=tokyonight&utcOffset=5.5" />
 <br/><br/>
@@ -194,7 +195,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 </div>
 </div>
-## 📈 Contribution Activity
+##  📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKarippadathUdai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9"/>
 ---
 
