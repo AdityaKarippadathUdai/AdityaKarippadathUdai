@@ -73,14 +73,38 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 ## ⚙️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| 💻 **Languages** | C · C++ · Java · Python · JavaScript |
-| 🌐 **Web Development** | HTML · CSS · React.js · Node.js · Flask |
-| 🧠 **AI / ML** | PyTorch · TensorFlow · CNN · NLP · Transformers · SpaCy |
-| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB |
-| ☁️ **Cloud & DevOps** | AWS · Google Cloud · Docker · Jenkins · Linux |
-| 🛠️ **Tools** | Git · GitHub · VS Code · Postman · Ubuntu |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💻 Languages</h4>
+      <code>Python</code> • <code>C++</code> • <code>Java</code> • <code>JavaScript (ES6+)</code> • <code>C</code> • <code>Kotlin</code>
+    </td>
+    <td width="50%">
+      <h4>🧠 AI / Machine Learning</h4>
+      <code>PyTorch</code> • <code>TensorFlow</code> • <code>HuggingFace</code> • <code>Transformers</code> • <code>OpenCV</code> • <code>SpaCy</code> • <code>Scikit-Learn</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🌐 Web & Backend Engineering</h4>
+      <code>Node.js</code> • <code>Express</code> • <code>FastAPI</code> • <code>Flask</code> • <code>React.js</code> • <code>HTML5 / CSS3</code>
+    </td>
+    <td>
+      <h4>☁️ DevOps, Cloud & Data</h4>
+      <code>Docker</code> • <code>AWS</code> • <code>GCP</code> • <code>Apache Spark</code> • <code>Linux (Ubuntu)</code> • <code>Jenkins</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🗄️ Databases & Infrastructure</h4>
+      <code>PostgreSQL</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>Vector DBs</code>
+    </td>
+    <td>
+      <h4>🛠️ Developer Tools</h4>
+      <code>Git & GitHub</code> • <code>Postman</code> • <code>VS Code</code> • <code>Jupyter</code> • <code>Gradio</code> • <code>Streamlit</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
