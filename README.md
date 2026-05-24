@@ -194,7 +194,7 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 </div>
 </div>
-## Contribution Graph
+## 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKarippadathUdai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9"/>
 ---
 
