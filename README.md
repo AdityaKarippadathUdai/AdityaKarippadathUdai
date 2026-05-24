@@ -170,14 +170,17 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=AdityaKarippadathUdai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<br/><br/>
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdityaKarippadathUdai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaKarippadathUdai&theme=tokyonight&utcOffset=5.5" />
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=AdityaKarippadathUdai&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
+
+## ⏱️ Development Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaKarippadathUdai&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaKarippadathUdai&theme=tokyonight" />
+</p>
 
 ## 🏆 GitHub Trophies
 
