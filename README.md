@@ -222,6 +222,13 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 | 🔍 **Research Mindset** | Exploring new approaches and staying current with the field |
 
 ---
+<div align="center">
+ 
+## 💻 Competitive Programming
+
+<img src="https://leetcard.jacoblin.cool/AdityaUdai?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+</div>
+---
 
 ## 🎯 Future Goals
 
