@@ -1,7 +1,6 @@
 <img src="Aditya Github.png" alt="Hi I am Aditya K U" width="100%" />
-<!--
 <div align="center">
- 
+ <!--
 <h1>👋 Hi, I'm Aditya Udai</h1>
 <h3>🚀 AI &amp; Software Enthusiast &nbsp;|&nbsp; Systems Thinker &nbsp;|&nbsp; B.Tech CSE (AI)</h3>
  -->
