@@ -182,6 +182,13 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaKarippadathUdai&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaKarippadathUdai&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaKarippadathUdai&theme=tokyonight"/>
+</p>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
