@@ -153,6 +153,21 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 
 <img src="https://streak-stats.demolab.com?user=AdityaKarippadathUdai&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaKarippadathUdai&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 </div>
 
 ---
