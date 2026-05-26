@@ -261,6 +261,12 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 - 🤝 Collaborate on meaningful software that creates real-world impact
 
 ---
+## 🛰️ Intelligent System Architecture
+
+<p align="center">
+  <img src="./assets/ai-system-architecture.svg" width="100%" />
+</p>
+
 
 ## ✨ Philosophy
 
