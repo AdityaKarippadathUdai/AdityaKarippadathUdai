@@ -1,0 +1,156 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <!-- Node Gradient -->
+    <linearGradient id="nodeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pulse Animation -->
+    <style>
+
+      .bg {
+        fill: url(#bgGradient);
+      }
+
+      .node {
+        fill: url(#nodeGradient);
+        stroke: #a78bfa;
+        stroke-width: 2.5;
+        rx: 22;
+        filter: url(#glow);
+      }
+
+      .title {
+        fill: #f8fafc;
+        font-family: Inter, Arial, sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+      }
+
+      .subtitle {
+        fill: #94a3b8;
+        font-family: Inter, Arial, sans-serif;
+        font-size: 13px;
+      }
+
+      .line {
+        stroke: #7c3aed;
+        stroke-width: 4;
+        fill: none;
+        stroke-linecap: round;
+        opacity: 0.9;
+      }
+
+      .dataFlow {
+        fill: #c084fc;
+        filter: url(#glow);
+      }
+
+      .pulse {
+        animation: pulse 3s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+          opacity: 0.85;
+        }
+        50% {
+          transform: scale(1.03);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(1);
+          opacity: 0.85;
+        }
+      }
+
+    </style>
+
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="1400" height="320" rx="30"/>
+
+  <!-- CONNECTION LINES -->
+  <path class="line" d="M220 160 H340"/>
+  <path class="line" d="M500 160 H620"/>
+  <path class="line" d="M780 160 H900"/>
+  <path class="line" d="M1060 160 H1180"/>
+
+  <!-- ANIMATED FLOW PARTICLES -->
+
+  <circle class="dataFlow" r="7">
+    <animateMotion dur="2s" repeatCount="indefinite"
+      path="M220 160 H340"/>
+  </circle>
+
+  <circle class="dataFlow" r="7">
+    <animateMotion dur="2.2s" repeatCount="indefinite"
+      path="M500 160 H620"/>
+  </circle>
+
+  <circle class="dataFlow" r="7">
+    <animateMotion dur="2.5s" repeatCount="indefinite"
+      path="M780 160 H900"/>
+  </circle>
+
+  <circle class="dataFlow" r="7">
+    <animateMotion dur="2.8s" repeatCount="indefinite"
+      path="M1060 160 H1180"/>
+  </circle>
+
+  <!-- CLIENT -->
+  <g class="pulse">
+    <rect class="node" x="60" y="100" width="160" height="120"/>
+    <text class="title" x="98" y="150">CLIENT</text>
+    <text class="subtitle" x="88" y="182">React / Frontend</text>
+  </g>
+
+  <!-- API -->
+  <g class="pulse">
+    <rect class="node" x="340" y="100" width="160" height="120"/>
+    <text class="title" x="392" y="150">API</text>
+    <text class="subtitle" x="365" y="182">FastAPI Gateway</text>
+  </g>
+
+  <!-- QUEUE -->
+  <g class="pulse">
+    <rect class="node" x="620" y="100" width="160" height="120"/>
+    <text class="title" x="658" y="150">QUEUE</text>
+    <text class="subtitle" x="655" y="182">Redis Streams</text>
+  </g>
+
+  <!-- AI MODEL -->
+  <g class="pulse">
+    <rect class="node" x="900" y="100" width="160" height="120"/>
+    <text class="title" x="922" y="150">AI MODEL</text>
+    <text class="subtitle" x="930" y="182">FLAN-T5 / NLP</text>
+  </g>
+
+  <!-- VECTOR DB -->
+  <g class="pulse">
+    <rect class="node" x="1180" y="100" width="160" height="120"/>
+    <text class="title" x="1198" y="150">VECTOR DB</text>
+    <text class="subtitle" x="1210" y="182">Embeddings Store</text>
+  </g>
+
+</svg>
