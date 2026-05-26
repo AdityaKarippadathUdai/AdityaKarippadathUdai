@@ -223,6 +223,28 @@ I'm an AI-focused Computer Science student with a deep passion for designing sys
 | 🔍 **Research Mindset** | Exploring new approaches and staying current with the field |
 
 ---
+## 🗂️ Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/AdityaKarippadathUdai/Brain-Tumor-Classification-using-CNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaKarippadathUdai&repo=Brain-Tumor-Classification-using-CNN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/AdityaKarippadathUdai/Library-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaKarippadathUdai&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AdityaKarippadathUdai/Gmail-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaKarippadathUdai&repo=Gmail-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/AdityaKarippadathUdai/NLP-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaKarippadathUdai&repo=NLP-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
  
 ## 💻 Competitive Programming
